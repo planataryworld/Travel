@@ -1,0 +1,46 @@
+header {
+    display: flex;
+    align-items: center;
+    background-color: #f39c12;
+    padding: 10px 20px;
+    justify-content:space-evenly
+}
+
+
+.title h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #000;
+}
+
+.navigation {
+    text-align: center;
+    padding-top: 15px;
+    font-size: 25px;
+    
+   }
+
+ .contactbody {
+    display: flex;
+    flex-direction: row;
+ }
+
+.contact-text {
+    display: inline;
+    background-color: gray;
+}
+
+  .busimage {
+     width: 70vw;
+    height: 250px;
+   }
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    background-color: aqua;
+    width: 100vw;
+
+   }
